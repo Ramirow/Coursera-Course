@@ -1,0 +1,28 @@
+body {
+padding:50px 0px 0px 0px;
+z-index:0;
+}
+
+.navbar-dark {
+   background-color:#512DA8;
+
+}
+
+h3 {
+margin-top: 15px;
+
+}
+
+address {
+    font-size: 80%;
+    margin:0;
+    color:#0f0f0f;
+}
+
+.jumbotron {
+padding:70px 30px 70px 30px;
+margin:0 auto;
+background: #9575CD;
+color:floralwhite; 
+
+}
