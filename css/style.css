@@ -26,3 +26,18 @@ background-color: #9575CD;
 color:floralwhite; 
 
 }
+
+
+.card h3 {
+background-color: #FFCC00;
+}
+
+a {
+color :black 
+}
+
+a:hover {
+text-decoration: none;
+color :black;
+
+}
