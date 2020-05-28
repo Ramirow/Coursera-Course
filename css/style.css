@@ -48,3 +48,20 @@ color :black;
     padding: 10px;
     margin-bottom: 50px;
 }
+
+
+
+.carousel {
+    background:#512DA8;
+}
+
+.carousel-item {
+  height: 300px;
+}
+
+.carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
