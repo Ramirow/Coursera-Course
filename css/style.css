@@ -28,16 +28,21 @@ color:floralwhite;
 }
 
 
-.card h3 {
-background-color: #FFCC00;
-}
 
-a {
-color :black 
-}
+
+
 
 a:hover {
 text-decoration: none;
 color :black;
 
+}
+
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 50px;
 }
